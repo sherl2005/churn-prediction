@@ -1,5 +1,17 @@
+# Python bytecode
 __pycache__/
 *.pyc
-*.pkl
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Environment files
 .env
+
+# Model artifacts
+*.pkl
+
+# Virtual environment
+venv/
+ENV/
+env/
