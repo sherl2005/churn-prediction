@@ -30,7 +30,7 @@ churn-prediction/
 ├── Dockerfile                        # (Optional) Docker container spec
 ├── .gitignore
 └── README.md                         # This file
-
+```
 ## ⚙️ Setup & Installation
 
 ### Clone the repo
